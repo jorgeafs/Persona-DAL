@@ -1,0 +1,66 @@
+﻿@model Entities.Persona
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Confirmation</title>
+</head>
+<body>
+    <h3>Are you sure you want to create this?</h3>
+    <fieldset>
+        <legend>Persona</legend>
+        @Html.HiddenFor(model => model.Nombre)
+        @Html.HiddenFor(model => model.Apellido)
+        @Html.HiddenFor(model => model.FechaNac)
+        @Html.HiddenFor(model => model.Direccion)
+        @Html.HiddenFor(model => model.Telefono)
+        @Html.HiddenFor(model => model.id)
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Nombre)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Nombre)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Apellido)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Apellido)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.FechaNac)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.FechaNac)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Direccion)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Direccion)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Telefono)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Telefono)
+        </div>
+        <input type="submit" name="correcto" value="correcto" />
+        <input type="submit" name="modificar" value="modificar" />
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id=Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

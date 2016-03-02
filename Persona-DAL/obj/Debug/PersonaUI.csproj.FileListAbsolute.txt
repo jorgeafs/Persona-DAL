@@ -1,0 +1,102 @@
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\PersonaUI.csprojResolveAssemblyReference.cache
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.dll.config
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Microsoft.Web.Infrastructure.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Newtonsoft.Json.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Helpers.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Mvc.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Razor.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Deployment.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Razor.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Newtonsoft.Json.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Helpers.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Mvc.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Razor.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Deployment.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Razor.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Helpers.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Mvc.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Razor.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\Persona-DAL.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\Persona-DAL.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Persona-DAL.dll.config
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Persona-DAL.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Persona-DAL.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Microsoft.Web.Infrastructure.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Newtonsoft.Json.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Helpers.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Mvc.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Razor.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.Deployment.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.Razor.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\Newtonsoft.Json.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Helpers.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Mvc.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.Razor.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.Deployment.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\System.Web.WebPages.Razor.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.Helpers.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.Mvc.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.Razor.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.WebPages.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\obj\Debug\PersonaUI.csprojResolveAssemblyReference.cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\obj\Debug\Persona-DAL.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Persona-DAL\obj\Debug\Persona-DAL.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.dll.config
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Persona-DAL.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Microsoft.Web.Infrastructure.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Newtonsoft.Json.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Helpers.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Mvc.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Razor.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Deployment.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Razor.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\Newtonsoft.Json.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Helpers.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Mvc.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.Razor.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Deployment.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\System.Web.WebPages.Razor.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Helpers.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Mvc.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.Razor.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\PersonaUI.csprojResolveAssemblyReference.cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\Persona-DAL.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Persona-DAL\obj\Debug\Persona-DAL.pdb

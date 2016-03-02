@@ -1,0 +1,36 @@
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDAL.vbprojResolveAssemblyReference.cache
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.Resources.resources
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDAL.vbproj.GenerateResource.Cache
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\bin\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDAL.vbprojResolveAssemblyReference.cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDALConexion.Resources.resources
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDAL.vbproj.GenerateResource.Cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\PersonaDALConexion\obj\Debug\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\bin\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDAL.vbprojResolveAssemblyReference.cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.Resources.resources
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDAL.vbproj.GenerateResource.Cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\PersonaDALConexion\obj\Debug\PersonaDALConexion.pdb

@@ -1,0 +1,24 @@
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.pdb
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.Resources.resources
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.vbproj.GenerateResource.Cache
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.dll
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.xml
+F:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\bin\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\bin\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\bin\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\obj\Debug\Entities.Resources.resources
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\obj\Debug\Entities.vbproj.GenerateResource.Cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\obj\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\obj\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL (COPIA DE SEGURIDAD- NO TOCAR)\Entities\obj\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.pdb
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\bin\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.Resources.resources
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.vbproj.GenerateResource.Cache
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.dll
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.xml
+G:\DAM\Segundo de Ciclo\Sistemas de gestion\Ejercicios\Persona-DAL\Entities\obj\Debug\Entities.pdb

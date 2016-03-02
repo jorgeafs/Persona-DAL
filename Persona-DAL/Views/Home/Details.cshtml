@@ -1,0 +1,58 @@
+﻿@model Entities.Persona
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Persona</legend>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Nombre)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Nombre)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Apellido)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Apellido)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.FechaNac)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.FechaNac)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Direccion)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Direccion)
+        </div>
+    
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.Telefono)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Telefono)
+        </div>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id=Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
